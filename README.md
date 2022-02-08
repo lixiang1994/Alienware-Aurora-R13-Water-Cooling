@@ -413,24 +413,24 @@ __注意左侧为进水口, 右侧为出水口__
 附上一些改装前后的跑分和测试结果对比.
 
 原装只能单烤CPU, FPU 2秒降频, 真的秒降, 温度瞬间撞墙.
-![OLD-单烤CPU](Resources/OLD-单烤CPU.JPG)
+![OLD-单烤CPU](Resources/OLD-单烤CPU.jpg)
 呵呵, 什么叫TM的压缩机?
-![NEW-单烤FPU](Resources/NEW-单烤FPU.JPG)
+![NEW-单烤FPU](Resources/NEW-单烤FPU.jpg)
 
 改装前, 待机:
-![OLD-GAMEPP-待机](Resources/OLD-GAMEPP-待机.JPG)
+![OLD-GAMEPP-待机](Resources/OLD-GAMEPP-待机.jpg)
 改装后, 待机:
-![NEW-GAMEPP-待机](Resources/NEW-GAMEPP-待机.JPG)
+![NEW-GAMEPP-待机](Resources/NEW-GAMEPP-待机.jpg)
 
 改装前, 跑分:
-![OLD-GAMEPP-跑分](Resources/OLD-GAMEPP-跑分.JPG)
+![OLD-GAMEPP-跑分](Resources/OLD-GAMEPP-跑分.jpg)
 改装后, 跑分:
-![NEW-GAMEPP-跑分](Resources/NEW-GAMEPP-跑分.JPG)
+![NEW-GAMEPP-跑分](Resources/NEW-GAMEPP-跑分.jpg)
 
 改装后, 压测:
-![OLD-GAMEPP-压测](Resources/OLD-GAMEPP-压测.JPG)
+![OLD-GAMEPP-压测](Resources/OLD-GAMEPP-压测.jpg)
 改装后, 压测:
-![NEW-GAMEPP-压测](Resources/NEW-GAMEPP-压测.JPG)
+![NEW-GAMEPP-压测](Resources/NEW-GAMEPP-压测.jpg)
 
 
 
