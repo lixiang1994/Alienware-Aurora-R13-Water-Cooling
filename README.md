@@ -493,3 +493,10 @@ __注意左侧为进水口, 右侧为出水口__
 
 ![NEW-GAMEPP-压测](Resources/NEW-GAMEPP-压测.jpg)
 
+改装前, 甜甜圈:
+
+![OLD-甜甜圈](Resources/OLD-甜甜圈.jpg)
+
+改装后, 甜甜圈:
+
+![NEW-甜甜圈](Resources/NEW-甜甜圈.jpg)
