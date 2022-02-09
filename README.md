@@ -1,6 +1,6 @@
-# Alienware-Aurora-R13-Water-Cooling
+# Alienware Aurora R13 WaterCooling
 
-外星人R13主机外置压缩机水冷改装分享
+外星人R13主机外置压缩机水冷改装分享 (试运行中, 持续更新)
 
 ![Cover](Resources/Cover.JPG)
 
