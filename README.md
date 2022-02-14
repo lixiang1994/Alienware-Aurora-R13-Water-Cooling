@@ -1,6 +1,6 @@
 # Alienware Aurora R13 WaterCooling
 
-外星人R13主机外置压缩机水冷改装分享 (试运行中, 持续更新)
+外星人R13主机外置压缩机水冷改装分享
 
 ![Cover](Resources/Cover.JPG)
 
@@ -453,6 +453,30 @@ Watercool PCI Slot Pass-Through
 ![完结撒花](Resources/完结撒花.JPG)
 
 接下来要试运行一周左右, 然后排掉所有的水, 换上新水 同时兑上水冷液(主要是抑制微生物和防腐防锈). 
+
+--------
+
+#### 2022年2月12日 更新
+
+试水一周结束, 改进了一些问题.
+
+对外接口增加了45度接头, 解决无法原来无法安装磁吸盖板的问题:
+
+![外置接口增加45度接头](Resources/UPDATE-外置接口增加45度接头.JPG)
+
+![安装磁吸盖板俯视图](Resources/UPDATE-安装磁吸盖板俯视图.JPG)
+
+![安装磁吸盖板侧视图](Resources/UPDATE-安装磁吸盖板侧视图.JPG)
+
+原厂PCI挡板无螺丝固定, 使用M2.5 * 5的螺丝固定(R13的螺丝不是标准机箱的螺丝)
+
+![UPDATE-PCI挡板增加M2.5螺丝固定](Resources/UPDATE-PCI挡板增加M2.5螺丝固定.JPG)
+
+
+
+
+
+
 
 ## 总结
 
