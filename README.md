@@ -458,7 +458,7 @@ Watercool PCI Slot Pass-Through
 
 #### 2022年2月12日 更新
 
-试水一周结束, 改进了一些问题.
+试水一周结束, 主要改进了以下问题.
 
 对外接口增加了45度接头, 解决无法原来无法安装磁吸盖板的问题:
 
@@ -473,10 +473,40 @@ Watercool PCI Slot Pass-Through
 ![UPDATE-PCI挡板增加M2.5螺丝固定](Resources/UPDATE-PCI挡板增加M2.5螺丝固定.JPG)
 
 
+原厂水冷头更换水管(上一次装的水管有点长了, 并且去掉了宝塔卡箍, 因为我在水箱顶部装了一个排气阀, 所以管路不会存在高压的情况, 也就不需要卡箍的固定了):
+
+![拆除水箱改进](Resources/UPDATE-拆除水箱改进.JPG)
 
 
+水箱支架增加垫圈防止变形:
 
+![水箱支架增加不锈钢垫圈](Resources/UPDATE-水箱支架增加不锈钢垫圈.JPG)
 
+![水箱支架增加不锈钢垫圈2](Resources/UPDATE-水箱支架增加不锈钢垫圈2.JPG)
+
+水箱顶部堵头换成自动排气阀.
+
+显卡进水管换成了金属硬管, 美观度+1.
+
+更换了一箱蒸馏水, 添加了100ml的EK浓缩水冷液:
+
+![添加EK透明浓缩水冷液](Resources/UPDATE-添加EK透明浓缩水冷液.JPG)
+
+重复之前的测漏环节, 成功点亮.
+
+![点亮](Resources/UPDATE-点亮1.JPG)
+
+![点亮](Resources/UPDATE-点亮2.JPG)
+
+![点亮](Resources/UPDATE-点亮3.JPG)
+
+![点亮](Resources/UPDATE-点亮4.JPG)
+
+装上侧面板, 安装完成, 顺便烤烤机.
+
+![安装完成](Resources/UPDATE-安装完成.JPG)
+
+![甜甜圈拷机测试](Resources/UPDATE-甜甜圈拷机测试.JPG)
 
 ## 总结
 
